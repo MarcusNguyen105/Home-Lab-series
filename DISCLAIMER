@@ -1,6 +1,6 @@
 # Legal & Ethical Disclaimer
 
-This repository and all associated workshops are provided for **educational purposes only** by the Security Daemons organization at DePaul University.
+This repository and all associated workshops are provided for **educational purposes only** by Marcus Nguyen.
 
 By using any material in this repository, you agree to the following:
 
@@ -11,20 +11,17 @@ By using any material in this repository, you agree to the following:
 You may only perform security testing, scanning, monitoring, or experimentation:
 
 - on systems **you personally own**,  
-- systems explicitly assigned to you (e.g., DePaul SecLabs VMs), or  
+- systems explicitly assigned to you, or  
 - systems where you have **written permission** from the owner.
 
 Using these labs, scripts, or documentation against unauthorized systems is strictly prohibited and may violate:
-
-- DePaul University policies  
+  
 - State and federal law  
 - The Computer Fraud and Abuse Act (CFAA)  
 
 ---
 
 ## 2. No Liability
-
-The Security Daemons, its members, advisors, or DePaul University:
 
 - **do not guarantee accuracy** of all materials  
 - **are not responsible for damage** to your systems  
